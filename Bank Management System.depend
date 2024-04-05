@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711214375 source:d:\invatat\c\projects\bank management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
